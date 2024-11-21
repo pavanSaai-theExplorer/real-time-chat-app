@@ -1,4 +1,4 @@
-# Real-Time WebSocket Chat Application
+# Real-Time Chat Application
 
 This project is a real-time chat application developed using Spring Boot, WebSocket, and Redis. It demonstrates efficient and scalable real-time communication by combining WebSocket with Redis for message broadcasting.
 
